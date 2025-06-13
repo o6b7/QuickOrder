@@ -46,7 +46,7 @@ graph TD
 
 ## Installation
 1- Clone the repository:
-git clone https://github.com/your-repo/QuickOrder.git
+git clone https://github.com/o6b7/QuickOrder.git
 
 2- Import into Eclipse:
 File → Import → Existing Projects into Workspace
