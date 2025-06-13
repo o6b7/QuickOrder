@@ -60,7 +60,8 @@ File → Import → Existing Projects into Workspace
 
 
 ## Database Schema
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/0efbf4b4-3650-448e-b7e2-390f14925098" />
+
+<img width="560" alt="Screenshot 2025-06-13 at 10 30 02 AM" src="https://github.com/user-attachments/assets/995d2d56-2094-4d27-b444-a55f6381b124" />
 
 
 
