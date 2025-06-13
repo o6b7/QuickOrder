@@ -29,7 +29,6 @@
 
 ## System Architecture
 
-```mermaid
 graph TD
     A[Client] --> B[JSP - View]
     B --> C[Servlet - Controller]
@@ -46,7 +45,6 @@ graph TD
 - Java DB (Derby)
 
 ## Installation
-
 1- Clone the repository:
 git clone https://github.com/your-repo/QuickOrder.git
 
@@ -59,10 +57,14 @@ File → Import → Existing Projects into Workspace
 4- Deploy to Tomcat server
 
 
-## Database Schema
+## Security Features
+🔒 Role-based access control
+🔑 Session management
+✔️ Input validation
+🚫 Feedback authenticity checks
 
-<img width="560" alt="Screenshot 2025-06-13 at 10 30 02 AM" src="https://github.com/user-attachments/assets/995d2d56-2094-4d27-b444-a55f6381b124" />
 
-
-
-
+## 👨‍💻 Developed By
+**Qusai Mansoor Mohammed Abdullah**  
+- 📧 Email: qusaii.abdullah@gmail.com
+- LinkedIn Profile: https://www.linkedin.com/in/qusaiabdullah/
